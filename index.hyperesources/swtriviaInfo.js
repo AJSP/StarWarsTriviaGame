@@ -19,7 +19,7 @@ function getInfo() {
 								"WHAT IS THE NAME OF THE COMMAND THAT LED TO THE SLAUGHTER OF THE ENTIRETY OF THE JEDI",
 								"WHAT IS COUNT DOOKUS SITH NAME"];
 	
-	window.correctAnswer = [ 	"C", "E", "A", "B", "D", "E", "C", "D", "A", "C ", "B", "B", "E", "A", "D" ]; 
+	window.correctAnswer = [ 	"C", "E", "A", "B", "D", "E", "C", "D", "A", "C", "B", "B", "E", "A", "D" ]; 
 	window.answerA = [ 			"YODA", 
 								"KYLO REN KENOBI", 
 								"12", 
